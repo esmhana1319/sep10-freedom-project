@@ -25,26 +25,38 @@ Ever since i was young, my older sisters whom of which i admired worked many dif
 
    The steps of the Engineering and design process consist of eight rules 
 
-1. Define the problem [x]
+#### 1. Define the problem [x]
    
-2.Research the problem [x]
+#### 2.Research the problem [x]
 
-3.Brainstorm possible solutions [x]
+#### 3.Brainstorm possible solutions [ ]
 
-4.Plan the most promising solution [x]
+#### 4.Plan the most promising solution [ ]
 
-5.Create a prototype [x]
+#### 5.Create a prototype [ ]
 
-6.Test and evaluate the prototype [x] 
+#### 6.Test and evaluate the prototype [ ] 
 
-7.Improve as needed [x]
+#### 7.Improve as needed [ ]
 
-8.Communicate the results [x]
+#### 8.Communicate the results [ ]
 
    Currently, i am on step 1 and 2. I have defined the problems that occur within modern customer service and am doing further research to expand on my knowledge. After i have concluded my research, i will start step 3 and 4 to begin the early stage of my website. 
 
+### _*Skills*_ 
 
-
+   Although this first blog may seem kind of anticlimactic and very quick, i learned so much and improved skills i have already developed even more. For instance, when searching for websites i could use as sources for my research, i had to find a way to filter through all the mess and junk that had no relevance to my research. This is where i used keywords to find specific articles that discussed technology and customer service. 
+```
+developed skill *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+  using keywords to specify my research lvl 3
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+```
+   Another skill i developed was descision making. the reason for this is when choosing a topic for my freedom project, rather than picking one based on my favorite hobby, i chose one basecd on my likability, the amount of grey area the concept has, and whether or not it would be easy to brainstorm/research for. 
+```
+developed skill *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+  using descisive skills to choose the best outcome/option lvl 4
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+```
 [Next](entry02.md)
 
 [Home](../README.md)
