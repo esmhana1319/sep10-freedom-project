@@ -25,13 +25,21 @@ As i talked about in my last blog, the engineering design process is a system th
 
 ### _*Skills*_ 
 
-During my more specific dive into researching the fundamentals of customer service technology i was able to develop some of the skills i have already used before, along with cultivate new ones. Firstly i improved my ability to search using more specific keywords to get the specific hardware i was looking for (when i was looking for customer service hardware i kept getting hardware companies customer service agents) by using selective language and omitting certain words which i replaced with more specific versions. 
-
-
-
-
-
-
+During my more specific dive into researching the fundamentals of customer service technology i was able to develop some of the skills i have  
+already used before, along with cultivate new ones. Firstly i improved my ability to search using more specific keywords to get the specific   
+hardware i was looking for (when i was looking for customer service hardware i kept getting hardware companies customer service agents) by using selective language and omitting certain words which i replaced with more specific versions. 
+```
+developed skill *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+  using keywords to specify my research lvl 5 (+2) 
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+```
+On top of that i also improved my ability to selectively search for relavent data by putting my self in the shoes of a customer service worker  
+which i found to help a lot in making my research more accurate to the topic i was trying to study. 
+```
+developed skill *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+  using perspective to increase the accuracy of results in my study lvl 4
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+```
 
 
 [Previous](entry01.md) | [Next](entry03.md)
