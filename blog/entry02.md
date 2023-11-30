@@ -15,6 +15,8 @@ They also encourage the use of [help desk ticketing systems](https://hiverhq.com
 4. A hard disk space of about 280 GB.
 5. Antivirus and spyware protection software.
 And of course internet headsets and office space. 
+In order to find these results I had to alter my searches and look from the perspective of a customer service worker trying to find hardware and software, which i found helped a lot.
+
 
 
 
