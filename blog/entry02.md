@@ -17,7 +17,15 @@ They also encourage the use of [help desk ticketing systems](https://hiverhq.com
 
 And of course internet headsets and office space. 
   
-In order to find these results I had to alter my searches and look from the perspective of a customer service worker trying to find hardware and software, which i found helped a lot.
+In order to find these results I had to alter my searches and look from the perspective of a customer service worker trying to find hardware and software, which i found helped a lot. 
+
+### _*Engineering Design Process*_ 
+
+As i talked about in my last blog, the engineering design process is a system that people use to design new concepts, ideas, foundations and products. Over the course of this project, we use the engineering design process to create the foundation and finished proudct along with pinpoint where we are in terms of finishing. Currently we are on the second step of researchig the proble we are trying to solve. Eventually with the evidence and results we have collected we will be able to brainstorm anf plan our solutional prototype. 
+
+### _*Skills*_ 
+
+During my more specific dive into researching the fundamentals of customer service technology i was able to develop some of the skills i have already used before, along with cultivate new ones. Firstly i improved my ability to search using more specific keywords to get the specific hardware i was looking for (when i was looking for customer service hardware i kept getting hardware companies customer service agents) by using selective language and omitting certain words which i replaced with more specific versions. 
 
 
 
