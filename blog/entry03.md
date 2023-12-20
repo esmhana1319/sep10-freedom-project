@@ -75,9 +75,19 @@ Currently i am on step 3, 4 and 5, as i have brainstormed solutions, planned my 
 
 ## Skills 
 
-
-
-
+ improved my ability to brainstorm solutions by putting my self in the shoes of a customer service worker  
+which i found to help a lot in making my solution more innovative to the cause i wanted to advocate for 
+```
+developed skill *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+  using perspective to help solve problems and make solutions lvl 5
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+```
+improved my ability to take feedback which helped me develop a better solution to the problems i was trying to solve. 
+```
+developed skill *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+  using feedback to help develop better solutions lvl 4
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+```
 
 
 [Previous](entry02.md) | [Next](entry04.md)
