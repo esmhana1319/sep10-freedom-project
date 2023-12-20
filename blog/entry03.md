@@ -1,4 +1,4 @@
-# Entry 2
+# Entry 3
 ##### 12/20/23 
 
 ## Brainstorming and Finalizing my content 
@@ -52,6 +52,31 @@ Now that i had my final brainstormed product finished, i could finally get to wo
 3. [the spacex website](https://www.spacex.com/) i love the use of animation to make presenting their content look cool
 
 ## Engineering design process 
+
+The Engineering and design process consists of eight steps 
+
+#### 1. Define the problem [x]
+   
+#### 2.Research the problem [x]
+
+#### 3.Brainstorm possible solutions [x]
+
+#### 4.Plan the most promising solution [x]
+
+#### 5.Create a prototype [x]
+
+#### 6.Test and evaluate the prototype [ ] 
+
+#### 7.Improve as needed [ ]
+
+#### 8.Communicate the results [ ]
+
+Currently i am on step 3, 4 and 5, as i have brainstormed solutions, planned my most promising one, and used it to create a prototype. With the innovation i have created i will be able to finalize my project and finish the last 3 steps of the engineering design process. 
+
+## Skills 
+
+
+
 
 
 
