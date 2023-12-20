@@ -42,8 +42,14 @@ Now that i had my final brainstormed product finished, i could finally get to wo
 - the future of customer service
   - here i transition into the problems along with my solution
   - i summarized the basis of my innovation along with how it will help
- 
 
+ ## Sources 
+
+ In my final content page i used a couple images along with referenced websites i might take inspo from regarding format and presentation of information. 
+
+1. [image i would use in my first section](https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.glia.com%2Fwp-content%2Fuploads%2F2018%2F10%2FBlog-TheScienceArtofCustomerService.png&tbnid=CpTw26du2qCGgM&vet=12ahUKEwjC4Z6B0pGDAxW6GGIAHRaACzcQMygCegQIARBS..i&imgrefurl=https%3A%2F%2Fblog.glia.com%2Fthe-art-of-customer-service%2F&docid=SUTR6L3mkyq3YM&w=850&h=513&q=customer%20service%20images%20corporate%20art&safe=active&ved=2ahUKEwjC4Z6B0pGDAxW6GGIAHRaACzcQMygCegQIARBS) this image shows a good example of customer service and also matches the corporate style i want to use in my website (creative commons too :D)
+2. [image i would use in my second section](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpxhere.com%2Fen%2Fphoto%2F1452813&psig=AOvVaw2mTz-fUmiZw2c6YOQXWXFO&ust=1702736645364000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPikwsLSkYMDFQAAAAAdAAAAABAQ) its very simple, summarative of my topic, but doesnt take away from the basis of my content (creative commons again) 
+3. [the spacex website](https://www.spacex.com/) i love the use of animation to make presenting their content look cool
 
 
 [Previous](entry02.md) | [Next](entry04.md)
