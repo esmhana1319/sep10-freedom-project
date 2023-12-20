@@ -19,7 +19,17 @@ It was pretty hard to conjure up a good invention to innovate the basis of Custo
 - customers struggle with finding a good establishment that can fulfill their needs
 - employees might want a similar job in the area seperate from that establishment
 
+### Brainstorming 
+
 Based off of these problems, i found the components of customer service that could be improved on and could begin brainstorming how i wanted to solve them. 
+
+The first idea i conjured for the advancement of customer service was AI assisted and pre-made responses to contribute a more effective help for the "help" pages of websites this could  be a universal attachment to websites and can also work as an app and have a "google maps'' like feature where stores can joint and receive their questions.  
+It can possibly connect with job scouting websites like fiverr and work as an easier way to scout for workers and good jobs. After I received feedback and other opinions I came to the conclusion that a joint service software or essentially a more professional reddit would be greatly beneficial to forming a healthy company/employee/customer relationship.   
+The way it would work is that a community can give feedback and provide a safer and quicker service. In regards to long waiting lines in service calls, it would be beneficial for both the customer and employee and make service more accessible. Mixing the fundamentals of these ideas can help provide the most effective platform for workers and service agents. 
+
+### Finalizing my content 
+
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
