@@ -29,6 +29,21 @@ The way it would work is that a community can give feedback and provide a safer 
 
 ### Finalizing my content 
 
+Now that i had my final brainstormed product finished, i could finally get to work on my content. The way i wanted it set up was this, 
+
+- what is customer service
+  - here i would include my introduction to customer service itself
+  - form a connection with my audience and my topic
+ 
+- the fundamentals of customer service
+  - what the basic hardware and software were in establishments to make customer service easier
+  - also use this to introduce where customer service methods create problems in my topic
+ 
+- the future of customer service
+  - here i transition into the problems along with my solution
+  - i summarized the basis of my innovation along with how it will help
+ 
+
 
 
 [Previous](entry02.md) | [Next](entry04.md)
