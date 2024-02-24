@@ -74,7 +74,32 @@ Of course there are more aspects of JQuery, such as clicks, double clicks, mouse
 
 There is actually so much opportunity within using JQuery for interactive and fun websites, and I'm glad I gave it a chance!
 
-# 
+# Sources
+
+In order to tinker with Jquery, I used HTML and CSS from an old project of mine, along with the W3Schools website to get started on introducing myself to the basics.
+
+[link to my the revised project with JQuery](https://musical-dollop-pjrvr9g97p7whr9-8080.app.github.dev/index.html)
+
+[link to the old project I used to tinker](https://replit.com/@esmhana/minions-color-lesson#index.html)
+
+[W3Schools intro to JQuery](https://www.w3schools.com/jquery/jquery_intro.asp)
+
+# Skills
+
+Through this learning process, I had to know when to quit on certain things that just werent working for me (cough cough jekyll) and start anew with something else, which bettered my decision making and my ability to just give up and start again
+```
+developed skill *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+  using decision making to find better options lvl 4
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+```
+
+Also through my process in learning Jquery, I pre-documented my process as I was tinkering with it, which made finalizing my blog quicker and easier.
+```
+developed skill *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+  Planning my work and documenting my progress lvl 7 
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+```
+
 
 [Previous](entry03.md) | [Next](entry05.md)
 
