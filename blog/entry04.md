@@ -93,7 +93,7 @@ developed skill *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 ```
 
-Also through my process in learning Jquery, I pre-documented my process as I was tinkering with it, which made finalizing my blog quicker and easier.
+While learning Jquery, I pre-documented my process as I was tinkering with it, which made finalizing my blog quicker and easier.
 ```
 developed skill *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
   Planning my work and documenting my progress lvl 7 
