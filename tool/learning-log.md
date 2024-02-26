@@ -29,6 +29,8 @@ $(selector).show(speed,callback);
 
 This code snippet is used to measure the amount of speed the event is. This only plays after the event is completed***
 
+[W3Schools website tutorial](https://www.w3schools.com/jquery/jquery_hide_show.asp)
+[my attempt](https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_hide_show)
 
 <!-- 
 * Links you used today (websites, videos, etc)
