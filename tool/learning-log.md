@@ -30,10 +30,6 @@ $(selector).show(speed,callback);
 This code snippet is used to measure the amount of speed the event is. This only plays after the event is completed***
 
 
-X/X/X:
-* Text
-
-
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
