@@ -61,13 +61,15 @@ $(document).ready(function(){
 by adding fast to your hide function, you have a more quicker transition that wraps up nicely. This can be used in demos of my freedom projects content, and could be used to display or hide content like images and captions. 
 
 ```html
+<script>
 $("#flip").click(function(){
   $("#panel").slideDown();
 });
+</script> 
 ```
+The function above, slidedown makes an element slide down when a certain action is performed on it. The example I have shown is a slidedown event that happens when you click on a banner, that causes a panel to cascade. 
 
 [W3Schools website tutorial](https://www.w3schools.com/jquery/jquery_hide_show.asp)   
-[my attempt](https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_hide_show)
 
 <!-- 
 * Links you used today (websites, videos, etc)
