@@ -29,6 +29,43 @@ $(selector).show(speed,callback);
 
 This code snippet is used to measure the amount of speed the event is. This only plays after the event is completed***
 
+3/4/24:
+
+The two functions I will show today are more of additions to the ones Ive previously written about, hide and show. This first one is called callback, which rather than making your element "poof" or suddenly dissapear it makes a more smoother transition. 
+
+```html
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("p").hide("slow", function(){
+      alert("The paragraph is now hidden");
+    });
+  });
+});
+</script>
+```
+by adding "slow" to your hide function, it makes a transition similar to that of a curtain raising upwards, or a slideshow esque feel. Now because i was a bit curious, i changed slow to "fast" to see if anything would happenm, and surprisingly it did. 
+
+```html
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("p").hide("fast", function(){
+      alert("The paragraph is now hidden");
+    });
+  });
+});
+</script>
+```
+
+by adding fast to your hide function, you have a more quicker transition that wraps up nicely. This can be used in demos of my freedom projects content, and could be used to display or hide content like images and captions. 
+
+```html
+$("#flip").click(function(){
+  $("#panel").slideDown();
+});
+```
+
 [W3Schools website tutorial](https://www.w3schools.com/jquery/jquery_hide_show.asp)   
 [my attempt](https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_hide_show)
 
