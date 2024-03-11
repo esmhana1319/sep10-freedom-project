@@ -71,8 +71,55 @@ The function above, slidedown makes an element slide down when a certain action 
 
 3/11/24
 
-The function below is a slidedown and slideup jquery event with css attatched to it causing it to turn the selected element red. The way this function works is a javascript event is made and it ene
+The function below is a slidedown and slideup jquery event with css attatched to it causing it to turn the selected element red. The way this function works is that a javascript event is made and it enables css onto an element when an action is performed, which in this case its when a button is clicked
 
+```html
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("#p1").css("color", "red").slideUp(2000).slideDown(2000);
+  });
+});
+</script>
+</head>
+<body>
+
+<p id="p1"> this is a jquery event haha :D </p>
+
+<button> Click me if u like red </button>
+
+</body>
+```
+
+This function below is called fade, which includes multiple variations and levels of fade. This event executes after the action click is performed.
+
+```html
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("#div1").fadeIn();
+    $("#div2").fadeIn("slow");
+    $("#div3").fadeIn(3000);
+  });
+});
+</script>
+</head>
+<body>
+
+<p>Different types of fade</p>
+
+<button>click me to execute</button><br><br>
+
+<div id="div1" style="width:80px;height:80px;display:none;background-color:orange;"></div><br>
+<div id="div2" style="width:80px;height:80px;display:none;background-color:pink;"></div><br>
+<div id="div3" style="width:80px;height:80px;display:none;background-color:yellow;"></div>
+
+</body>
+```
 
 
 
