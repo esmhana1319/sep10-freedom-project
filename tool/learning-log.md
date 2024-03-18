@@ -120,9 +120,46 @@ $(document).ready(function(){
 
 </body>
 ```
+3/18/24 
+
+This time. instead of using W3Schools to learn new methods i tried branching out to different options. I browsed for begginer friendly websites in order to find new soruces and came across Tutorial Republic. The ethod ill be focusing on is JQuery insert, which adds elements to your page when a certain action is done
+
+for instance, the example below shows a button, and when pressed it inserts a paragraph to in the website. 
+```html
+
+<script>
+$(document).ready(function(){
+    $("p").append(' <a href="#">read more...</a>');
+    
+    $("button").click(function(){
+       $("#container").append("This is demo text.");
+    });
+});
+</script>
+```
+
+Append, in this example adds text to the end, in order to insert text to the beggining of the page, add prepend. 
+
+Text is totally not the only thing you can insert, images and other elements are included but they must be specified. In this example, an image, paragraph and header are added when a certain action is commited 
+
+```html
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        var newHeading = "<h1>Important Note:</h1>";
+        var newParagraph = document.createElement("p");
+		newParagraph.innerHTML = "<em>Lorem Ipsum is dummy text...</em>";
+        var newImage = $('<img src="/examples/images/smiley.png" alt="Symbol">');
+        $("body").append(newHeading, newParagraph, newImage);
+    });
+});
+</script>
+```
+In order to do this, just specify with tags within apostrophes 
 
 
 
+[tutorialrepublic](https://www.tutorialrepublic.com/jquery-tutorial/)
 [W3Schools website tutorial](https://www.w3schools.com/jquery/jquery_hide_show.asp)
 
 <!--
